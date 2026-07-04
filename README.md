@@ -1,7 +1,7 @@
 # End-to-End STEM Mentorship Data Pipeline & Analytics Framework
 
 ## 📌 Project Overview
-👉 **[Click here to explore the Live Interactive Looker Studio Dashboard!](https://datastudio.google.com/s/lZySNOUuT5U)**
+👉 **[Click here to explore the Live Interactive Looker Studio Dashboard!](https://datastudio.google.com/s/moe_fFf7niI)**
 
 This project establishes a low-cost, production-grade Data Engineering and Business Intelligence pipeline for a regional STEM Mentorship Program in South Africa. Facing realistic budget constraints, I bypassed expensive cloud warehouse tools in favor of an optimized Google Workspace & Cloud ecosystem. 
 
