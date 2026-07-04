@@ -1,0 +1,201 @@
+Session_ID,Date,Cohort_Quarter,Student_ID,Mentor_ID,STEM_Field,Department_Owner,Budget_Allocated,Budget_Spent,Attendance_Status,Satisfaction_Score,Outcome_Tracked
+SES-2026-001,2026-11-24,Q4-2026,STU-118,MNT-524,Robotics,Operations,300,294,Attended,2,Landed Internship
+SES-2026-002,2026-10-30,Q4-2026,STU-165,MNT-520,Robotics,Curriculum,900,892,Attended,2,Landed Internship
+SES-2026-003,2026-11-29,Q4-2026,STU-101,MNT-525,Software Engineering,Outreach,1500,1361,Attended,4,Retained in STEM
+SES-2026-004,2026-06-24,Q2-2026,STU-112,MNT-513,Robotics,Finance,700,661,Attended,3,Completed Project
+SES-2026-005,2026-06-26,Q2-2026,STU-169,MNT-504,Data Science,Operations,1200,1133,Absent,,Ongoing
+SES-2026-006,2026-10-10,Q4-2026,STU-130,MNT-525,Chemical Engineering,Operations,700,608,Attended,1,Completed Project
+SES-2026-007,2026-04-30,Q2-2026,STU-148,MNT-512,Software Engineering,Finance,300,203,Attended,3,Landed Internship
+SES-2026-008,2026-12-26,Q4-2026,STU-121,MNT-515,Data Science,Finance,1500,1482,Attended,2,Landed Internship
+SES-2026-009,2026-11-24,Q4-2026,STU-130,MNT-502,Chemical Engineering,Outreach,1500,1358,Attended,3,Completed Project
+SES-2026-010,2026-05-18,Q2-2026,STU-128,MNT-521,Data Science,Outreach,300,246,Absent,,Retained in STEM
+SES-2026-011,2026-11-26,Q4-2026,STU-175,MNT-514,Data Science,Finance,900,864,Attended,2,Retained in STEM
+SES-2026-012,2026-04-23,Q2-2026,STU-120,MNT-521,Software Engineering,Outreach,500,370,Attended,,Completed Project
+SES-2026-013,2026-11-02,Q4-2026,STU-171,MNT-501,Robotics,Finance,300,202,Attended,4,Retained in STEM
+SES-2026-014,2026-11-25,Q4-2026,STU-101,MNT-524,Chemical Engineering,Curriculum,500,540,Attended,2,Ongoing
+SES-2026-015,2026-09-17,Q3-2026,STU-120,MNT-512,Software Engineering,Operations,300,224,Absent,,Landed Internship
+SES-2026-016,2026-11-03,Q4-2026,STU-131,MNT-502,Software Engineering,Operations,700,575,Attended,3,Retained in STEM
+SES-2026-017,2026-02-13,Q1-2026,STU-117,MNT-522,Data Science,Curriculum,1500,1376,Absent,,Landed Internship
+SES-2026-018,2026-05-16,Q2-2026,STU-140,MNT-513,Chemical Engineering,Outreach,1200,1092,Excused,,Landed Internship
+SES-2026-019,2026-09-22,Q3-2026,STU-103,MNT-519,Software Engineering,Curriculum,900,870,Attended,1,Retained in STEM
+SES-2026-020,2026-01-04,Q1-2026,STU-110,MNT-517,Software Engineering,Finance,300,285,Attended,1,Retained in STEM
+SES-2026-021,2026-12-09,Q4-2026,STU-132,MNT-516,Data Science,Curriculum,900,846,Attended,5,Ongoing
+SES-2026-022,2026-02-18,Q1-2026,STU-107,MNT-522,Robotics,Operations,300,190,Attended,4,Ongoing
+SES-2026-023,2026-07-26,Q3-2026,STU-132,MNT-507,Software Engineering,Outreach,1500,1414,Absent,,Completed Project
+SES-2026-024,2026-03-13,Q1-2026,STU-157,MNT-518,Robotics,Operations,900,854,Attended,2,Completed Project
+SES-2026-025,2026-11-30,Q4-2026,STU-122,MNT-514,Data Science,Outreach,1200,1197,Excused,,Landed Internship
+SES-2026-026,2026-04-20,Q2-2026,STU-134,MNT-515,Chemical Engineering,Outreach,900,885,Attended,1,Ongoing
+SES-2026-027,2026-12-23,Q4-2026,STU-125,MNT-510,Software Engineering,Operations,1500,1358,Attended,4,Landed Internship
+SES-2026-028,2026-10-24,Q4-2026,STU-107,MNT-519,Data Science,Curriculum,1500,1362,Attended,3,Completed Project
+SES-2026-029,2026-01-30,Q1-2026,STU-177,MNT-503,Software Engineering,Outreach,1200,1180,Absent,,Completed Project
+SES-2026-030,2026-03-03,Q1-2026,STU-154,MNT-522,Chemical Engineering,Finance,1200,1137,Attended,1,Completed Project
+SES-2026-031,2026-04-15,Q2-2026,STU-139,MNT-515,Chemical Engineering,Operations,1500,1420,Attended,4,Landed Internship
+SES-2026-032,2026-01-05,Q1-2026,STU-169,MNT-507,Chemical Engineering,Curriculum,900,756,Excused,,Completed Project
+SES-2026-033,2026-06-28,Q2-2026,STU-170,MNT-523,Chemical Engineering,Operations,300,238,Attended,2,Ongoing
+SES-2026-034,2026-12-08,Q4-2026,STU-118,MNT-509,Robotics,Operations,1200,1124,Absent,,Completed Project
+SES-2026-035,2026-10-11,Q4-2026,STU-127,MNT-522,Chemical Engineering,Outreach,500,431,Attended,2,Retained in STEM
+SES-2026-036,2026-05-09,Q2-2026,STU-101,MNT-511,Software Engineering,Finance,300,277,Attended,3,Completed Project
+SES-2026-037,2026-03-24,Q1-2026,STU-115,MNT-503,Software Engineering,Operations,1500,1387,Attended,4,Completed Project
+SES-2026-038,2026-07-09,Q3-2026,STU-140,MNT-512,Robotics,Finance,1200,1059,Attended,2,Completed Project
+SES-2026-039,2026-04-18,Q2-2026,STU-180,MNT-524,Software Engineering,Curriculum,1500,1437,Attended,3,Ongoing
+SES-2026-040,2026-03-25,Q1-2026,STU-132,MNT-509,Software Engineering,Operations,500,395,Attended,3,Ongoing
+SES-2026-041,2026-07-15,Q3-2026,STU-140,MNT-508,Software Engineering,Operations,300,180,Attended,4,Retained in STEM
+SES-2026-042,2026-12-04,Q4-2026,STU-145,MNT-521,Data Science,Finance,500,398,Attended,1,Retained in STEM
+SES-2026-043,2026-01-15,Q1-2026,STU-114,MNT-520,Data Science,Finance,300,234,Attended,3,Completed Project
+SES-2026-044,2026-06-10,Q2-2026,STU-133,MNT-502,Data Science,Operations,900,770,Attended,5,Landed Internship
+SES-2026-045,2026-09-24,Q3-2026,STU-180,MNT-511,Robotics,Finance,1200,1150,Attended,1,Retained in STEM
+SES-2026-046,2026-09-17,Q3-2026,STU-125,MNT-514,Data Science,Curriculum,700,596,Attended,3,Landed Internship
+SES-2026-047,2026-11-12,Q4-2026,STU-137,MNT-507,Data Science,Finance,1200,1123,Attended,1,Retained in STEM
+SES-2026-048,2026-08-27,Q3-2026,STU-122,MNT-522,Robotics,Finance,900,787,Attended,5,Ongoing
+SES-2026-049,2026-09-21,Q3-2026,STU-129,MNT-507,Software Engineering,Operations,1500,1415,Attended,2,Retained in STEM
+SES-2026-050,01/24/2026,Q1-2026,STU-154,MNT-521,Software Engineering,Outreach,500,379,Attended,1,Ongoing
+SES-2026-051,2026-09-11,Q3-2026,STU-155,MNT-508,Software Engineering,Outreach,900,838,Attended,1,Completed Project
+SES-2026-052,2026-01-26,Q1-2026,STU-159,MNT-505,Data Science,Finance,1200,1137,Absent,,Completed Project
+SES-2026-053,2026-08-15,Q3-2026,STU-121,MNT-524,Data Science,Outreach,1200,1071,Attended,5,Ongoing
+SES-2026-054,2026-05-13,Q2-2026,STU-131,MNT-509,Data Science,Operations,500,430,Attended,5,Ongoing
+SES-2026-055,2026-05-27,Q2-2026,STU-118,MNT-505,Software Engineering,Outreach,500,431,Attended,5,Completed Project
+SES-2026-056,2026-12-22,Q4-2026,STU-170,MNT-515,Data Science,Operations,500,446,Attended,4,Retained in STEM
+SES-2026-057,2026-04-16,Q2-2026,STU-174,MNT-513,Data Science,Operations,900,801,Absent,,Completed Project
+SES-2026-058,2026-06-30,Q2-2026,STU-169,MNT-524,Software Engineering,Outreach,700,601,Absent,,Ongoing
+SES-2026-059,2026-04-23,Q2-2026,STU-152,MNT-524,Software Engineering,Outreach,700,589,Attended,4,Retained in STEM
+SES-2026-060,2026-03-07,Q1-2026,STU-111,MNT-521,Data Science,Curriculum,1200,1064,Attended,4,Completed Project
+SES-2026-061,2026-08-25,Q3-2026,STU-159,MNT-511,Chemical Engineering,Outreach,500,488,Attended,3,Landed Internship
+SES-2026-062,2026-05-23,Q2-2026,STU-103,MNT-524,Robotics,Finance,900,836,Absent,,Ongoing
+SES-2026-063,2026-04-25,Q2-2026,STU-132,MNT-507,Robotics,Curriculum,1500,1483,Attended,1,Completed Project
+SES-2026-064,2026-05-03,Q2-2026,STU-160,MNT-523,Chemical Engineering,Finance,500,379,Attended,5,Landed Internship
+SES-2026-065,2026-03-27,Q1-2026,STU-114,MNT-519,Robotics,Finance,1200,1171,Attended,2,Retained in STEM
+SES-2026-066,2026-10-22,Q4-2026,STU-176,MNT-523,Software Engineering,Operations,1500,1404,Attended,2,Completed Project
+SES-2026-067,2026-12-23,Q4-2026,STU-145,MNT-518,Data Science,Finance,700,670,Attended,5,Completed Project
+SES-2026-068,2026-02-05,Q1-2026,STU-114,MNT-514,Chemical Engineering,Outreach,1200,1113,Attended,4,Ongoing
+SES-2026-069,2026-12-29,Q4-2026,STU-179,MNT-518,Data Science,Outreach,500,389,Attended,5,Retained in STEM
+SES-2026-070,2026-08-12,Q3-2026,STU-136,MNT-515,Software Engineering,Outreach,1500,1432,Attended,2,Completed Project
+SES-2026-071,2026-10-19,Q4-2026,STU-124,MNT-516,Software Engineering,Finance,1200,1103,Attended,4,Retained in STEM
+SES-2026-072,2026-05-13,Q2-2026,STU-172,MNT-501,Software Engineering,Operations,700,629,Absent,,Retained in STEM
+SES-2026-073,2026-05-04,Q2-2026,STU-163,MNT-515,Robotics,Operations,1500,1396,Attended,2,Ongoing
+SES-2026-074,2026-05-31,Q2-2026,STU-161,MNT-518,Chemical Engineering,Outreach,500,397,Attended,3,Retained in STEM
+SES-2026-075,2026-10-09,Q4-2026,STU-133,MNT-508,Robotics,Curriculum,700,610,Attended,3,Retained in STEM
+SES-2026-076,2026-06-11,Q2-2026,STU-125,MNT-507,Data Science,Finance,300,163,Excused,,Landed Internship
+SES-2026-077,2026-10-29,Q4-2026,STU-138,MNT-508,Chemical Engineering,Curriculum,1200,1128,Excused,,Landed Internship
+SES-2026-078,2026-06-04,Q2-2026,STU-171,MNT-510,Software Engineering,Outreach,300,164,Attended,1,Completed Project
+SES-2026-079,2026-02-22,Q1-2026,STU-144,MNT-506,Robotics,Finance,300,154,Attended,4,Ongoing
+SES-2026-080,2026-09-02,Q3-2026,STU-120,MNT-505,Chemical Engineering,Operations,300,284,Attended,1,Completed Project
+SES-2026-081,2026-05-08,Q2-2026,STU-167,MNT-513,Data Science,Outreach,300,158,Attended,5,Landed Internship
+SES-2026-082,2026-06-02,Q2-2026,STU-179,MNT-524,Robotics,Curriculum,1200,1091,Attended,5,Completed Project
+SES-2026-083,2026-11-17,Q4-2026,STU-123,MNT-518,Robotics,Curriculum,500,433,Attended,2,Landed Internship
+SES-2026-084,2026-01-02,Q1-2026,STU-105,MNT-508,Chemical Engineering,Finance,900,785,Attended,4,Retained in STEM
+SES-2026-085,2026-12-26,Q4-2026,STU-155,MNT-504,Software Engineering,Curriculum,900,882,Attended,3,Landed Internship
+SES-2026-086,2026-05-17,Q2-2026,STU-157,MNT-504,Data Science,Finance,500,482,Attended,3,Retained in STEM
+SES-2026-087,2026-12-25,Q4-2026,STU-111,MNT-520,Robotics,Outreach,900,831,Attended,4,Ongoing
+SES-2026-088,2026-06-15,Q2-2026,STU-135,MNT-519,Robotics,Curriculum,1200,1136,Attended,2,Completed Project
+SES-2026-089,2026-08-29,Q3-2026,STU-175,MNT-514,Data Science,Operations,1200,1087,Absent,,Landed Internship
+SES-2026-090,2026-08-29,Q3-2026,STU-143,MNT-514,Data Science,Finance,700,596,Attended,1,Landed Internship
+SES-2026-091,2026-12-06,Q4-2026,STU-133,MNT-511,Robotics,Outreach,900,760,Attended,1,Retained in STEM
+SES-2026-092,2026-09-21,Q3-2026,STU-167,MNT-512,Data Science,Outreach,300,162,Attended,1,Landed Internship
+SES-2026-093,01/27/2026,Q1-2026,STU-163,MNT-504,Robotics,Curriculum,500,432,Attended,3,Ongoing
+SES-2026-094,2026-12-30,Q4-2026,STU-112,MNT-508,Robotics,Outreach,500,421,Attended,,Ongoing
+SES-2026-095,2026-03-02,Q1-2026,STU-154,MNT-516,Data Science,Curriculum,1500,1461,Attended,3,Retained in STEM
+SES-2026-096,2026-08-22,Q3-2026,STU-109,MNT-509,Data Science,Finance,1200,1163,Attended,5,Landed Internship
+SES-2026-097,2026-09-17,Q3-2026,STU-120,MNT-515,Data Science,Finance,700,700,Attended,3,Ongoing
+SES-2026-098,2026-06-20,Q2-2026,STU-131,MNT-519,Data Science,Curriculum,1200,1061,Attended,3,Landed Internship
+SES-2026-099,2026-07-30,Q3-2026,STU-120,MNT-516,Robotics,Curriculum,300,219,Attended,4,Ongoing
+SES-2026-100,2026-09-15,Q3-2026,STU-113,MNT-517,Data Science,Operations,1200,1116,Absent,,Ongoing
+SES-2026-101,2026-03-15,Q1-2026,STU-180,MNT-523,Data Science,Operations,900,861,Attended,3,Retained in STEM
+SES-2026-102,2026-06-18,Q2-2026,STU-170,MNT-502,Robotics,Curriculum,1500,1364,Attended,3,Ongoing
+SES-2026-103,2026-11-20,Q4-2026,STU-156,MNT-504,Robotics,Outreach,500,540,Excused,,Completed Project
+SES-2026-104,2026-03-27,Q1-2026,STU-142,MNT-502,Chemical Engineering,Finance,1500,1424,Attended,,Completed Project
+SES-2026-105,2026-07-11,Q3-2026,STU-122,MNT-506,Robotics,Outreach,900,863,Attended,4,Landed Internship
+SES-2026-106,2026-11-14,Q4-2026,STU-130,MNT-515,Chemical Engineering,Outreach,1500,1439,Attended,5,Landed Internship
+SES-2026-107,2026-05-11,Q2-2026,STU-137,MNT-522,Software Engineering,Operations,1500,1498,Absent,,Ongoing
+SES-2026-108,2026-08-15,Q3-2026,STU-159,MNT-510,Software Engineering,Outreach,700,550,Attended,4,Retained in STEM
+SES-2026-109,2026-09-05,Q3-2026,STU-138,MNT-501,Data Science,Finance,300,240,Attended,3,Retained in STEM
+SES-2026-110,2026-01-05,Q1-2026,STU-137,MNT-525,Software Engineering,Finance,1200,1188,Absent,,Ongoing
+SES-2026-111,2026-04-23,Q2-2026,STU-106,MNT-510,Data Science,Operations,1500,1452,Attended,2,Completed Project
+SES-2026-112,2026-10-24,Q4-2026,STU-154,MNT-506,Software Engineering,Curriculum,700,667,Attended,3,Retained in STEM
+SES-2026-113,2026-10-04,Q4-2026,STU-133,MNT-516,Chemical Engineering,Finance,700,565,Attended,3,Landed Internship
+SES-2026-114,2026-02-28,Q1-2026,STU-172,MNT-512,Robotics,Outreach,900,881,Attended,2,Ongoing
+SES-2026-115,2026-01-08,Q1-2026,STU-175,MNT-513,Chemical Engineering,Operations,700,563,Attended,3,Retained in STEM
+SES-2026-116,2026-12-12,Q4-2026,STU-179,MNT-508,Robotics,Outreach,500,380,Attended,5,Retained in STEM
+SES-2026-117,2026-12-25,Q4-2026,STU-139,MNT-516,Robotics,Operations,700,596,Attended,1,Completed Project
+SES-2026-118,2026-05-01,Q2-2026,STU-176,MNT-524,Software Engineering,Outreach,1200,1166,Attended,3,Ongoing
+SES-2026-119,2026-12-02,Q4-2026,STU-148,MNT-507,Data Science,Outreach,300,175,Attended,3,Completed Project
+SES-2026-120,2026-05-01,Q2-2026,STU-170,MNT-521,Chemical Engineering,Operations,700,675,Excused,,Retained in STEM
+SES-2026-121,2026-07-23,Q3-2026,STU-112,MNT-522,Software Engineering,Operations,700,652,Excused,,Ongoing
+SES-2026-122,2026-01-26,Q1-2026,STU-109,MNT-525,Software Engineering,Curriculum,700,638,Excused,,Landed Internship
+SES-2026-123,2026-04-30,Q2-2026,STU-136,MNT-505,Software Engineering,Finance,700,663,Attended,5,Completed Project
+SES-2026-124,2026-03-31,Q1-2026,STU-176,MNT-511,Robotics,Curriculum,300,294,Attended,3,Landed Internship
+SES-2026-125,2026-05-16,Q2-2026,STU-109,MNT-516,Data Science,Finance,300,268,Attended,5,Completed Project
+SES-2026-126,2026-09-20,Q3-2026,STU-167,MNT-510,Data Science,Operations,1200,1173,Attended,2,Completed Project
+SES-2026-127,2026-02-01,Q1-2026,STU-157,MNT-503,Robotics,Finance,900,798,Attended,1,Ongoing
+SES-2026-128,2026-11-08,Q4-2026,STU-149,MNT-520,Chemical Engineering,Outreach,500,484,Attended,5,Retained in STEM
+SES-2026-129,2026-09-16,Q3-2026,STU-156,MNT-515,Software Engineering,Outreach,1200,1090,Attended,1,Landed Internship
+SES-2026-130,2026-06-23,Q2-2026,STU-155,MNT-511,Chemical Engineering,Finance,900,798,Attended,1,Retained in STEM
+SES-2026-131,2026-03-20,Q1-2026,STU-156,MNT-504,Chemical Engineering,Curriculum,1500,1379,Attended,1,Completed Project
+SES-2026-132,2026-10-12,Q4-2026,STU-116,MNT-514,Chemical Engineering,Outreach,300,150,Excused,,Retained in STEM
+SES-2026-133,2026-01-27,Q1-2026,STU-120,MNT-522,Data Science,Curriculum,700,621,Attended,5,Landed Internship
+SES-2026-134,2026-02-25,Q1-2026,STU-155,MNT-518,Robotics,Finance,700,558,Attended,3,Landed Internship
+SES-2026-135,2026-01-15,Q1-2026,STU-145,MNT-501,Software Engineering,Curriculum,500,431,Attended,3,Retained in STEM
+SES-2026-136,2026-10-17,Q4-2026,STU-168,MNT-507,Data Science,Outreach,1500,1398,Attended,1,Completed Project
+SES-2026-137,2026-08-21,Q3-2026,STU-107,MNT-505,Software Engineering,Operations,700,660,Attended,3,Completed Project
+SES-2026-138,2026-12-12,Q4-2026,STU-178,MNT-515,Data Science,Finance,300,231,Attended,4,Ongoing
+SES-2026-139,2026-04-21,Q2-2026,STU-176,MNT-516,Chemical Engineering,Operations,1200,1171,Attended,1,Retained in STEM
+SES-2026-140,2026-04-23,Q2-2026,STU-118,MNT-525,Chemical Engineering,Finance,900,886,Attended,3,Landed Internship
+SES-2026-141,2026-06-17,Q2-2026,STU-117,MNT-513,Software Engineering,Finance,300,299,Attended,4,Landed Internship
+SES-2026-142,2026-02-06,Q1-2026,STU-141,MNT-519,Data Science,Outreach,900,890,Attended,4,Completed Project
+SES-2026-143,2026-12-30,Q4-2026,STU-142,MNT-506,Data Science,Finance,1500,1394,Attended,4,Completed Project
+SES-2026-144,02/15/2026,Q1-2026,STU-168,MNT-503,Data Science,Finance,900,873,Attended,5,Ongoing
+SES-2026-145,2026-06-23,Q2-2026,STU-168,MNT-517,Software Engineering,Finance,500,415,Attended,1,Completed Project
+SES-2026-146,2026-06-29,Q2-2026,STU-126,MNT-506,Software Engineering,Operations,500,540,Attended,2,Retained in STEM
+SES-2026-147,2026-04-01,Q2-2026,STU-173,MNT-521,Chemical Engineering,Finance,1500,1374,Attended,5,Ongoing
+SES-2026-148,2026-03-19,Q1-2026,STU-176,MNT-502,Chemical Engineering,Operations,900,883,Attended,3,Retained in STEM
+SES-2026-149,2026-06-08,Q2-2026,STU-110,MNT-521,Robotics,Outreach,900,785,Attended,3,Retained in STEM
+SES-2026-150,2026-08-25,Q3-2026,STU-158,MNT-519,Software Engineering,Finance,1200,1059,Excused,,Completed Project
+SES-2026-151,2026-11-06,Q4-2026,STU-114,MNT-511,Robotics,Curriculum,900,772,Attended,1,Ongoing
+SES-2026-152,2026-01-21,Q1-2026,STU-147,MNT-512,Chemical Engineering,Outreach,500,388,Excused,,Landed Internship
+SES-2026-153,2026-07-29,Q3-2026,STU-143,MNT-504,Data Science,Finance,700,687,Attended,3,Completed Project
+SES-2026-154,2026-05-10,Q2-2026,STU-145,MNT-510,Data Science,Curriculum,1500,1462,Attended,5,Landed Internship
+SES-2026-155,2026-11-01,Q4-2026,STU-117,MNT-522,Robotics,Outreach,1500,1479,Attended,4,Retained in STEM
+SES-2026-156,2026-09-18,Q3-2026,STU-144,MNT-525,Data Science,Curriculum,700,696,Attended,2,Landed Internship
+SES-2026-157,2026-04-26,Q2-2026,STU-144,MNT-525,Software Engineering,Outreach,500,461,Attended,1,Completed Project
+SES-2026-158,2026-03-20,Q1-2026,STU-157,MNT-502,Data Science,Finance,500,454,Absent,,Landed Internship
+SES-2026-159,2026-12-13,Q4-2026,STU-158,MNT-508,Software Engineering,Finance,1500,1440,Excused,,Retained in STEM
+SES-2026-160,2026-08-29,Q3-2026,STU-160,MNT-525,Chemical Engineering,Outreach,500,406,Attended,5,Ongoing
+SES-2026-161,2026-09-15,Q3-2026,STU-178,MNT-505,Chemical Engineering,Operations,1200,1093,Excused,,Landed Internship
+SES-2026-162,2026-11-25,Q4-2026,STU-137,MNT-503,Software Engineering,Finance,900,805,Attended,1,Completed Project
+SES-2026-163,2026-08-19,Q3-2026,STU-129,MNT-515,Chemical Engineering,Operations,1200,1163,Absent,,Completed Project
+SES-2026-164,2026-08-01,Q3-2026,STU-111,MNT-512,Software Engineering,Operations,300,199,Attended,2,Ongoing
+SES-2026-165,2026-06-13,Q2-2026,STU-137,MNT-516,Software Engineering,Outreach,300,215,Attended,2,Completed Project
+SES-2026-166,2026-08-18,Q3-2026,STU-133,MNT-507,Software Engineering,Outreach,1200,1199,Absent,,Completed Project
+SES-2026-167,2026-02-26,Q1-2026,STU-154,MNT-521,Data Science,Operations,700,640,Attended,1,Landed Internship
+SES-2026-168,2026-02-26,Q1-2026,STU-119,MNT-510,Data Science,Operations,900,763,Attended,5,Landed Internship
+SES-2026-169,2026-11-11,Q4-2026,STU-168,MNT-512,Robotics,Operations,700,639,Attended,2,Completed Project
+SES-2026-170,2026-07-19,Q3-2026,STU-103,MNT-512,Robotics,Finance,900,889,Attended,3,Retained in STEM
+SES-2026-171,2026-05-04,Q2-2026,STU-106,MNT-512,Chemical Engineering,Curriculum,1500,1474,Attended,3,Landed Internship
+SES-2026-172,2026-12-17,Q4-2026,STU-159,MNT-502,Chemical Engineering,Curriculum,900,778,Attended,2,Completed Project
+SES-2026-173,2026-01-23,Q1-2026,STU-170,MNT-516,Chemical Engineering,Operations,500,490,Attended,3,Ongoing
+SES-2026-174,2026-11-28,Q4-2026,STU-135,MNT-504,Chemical Engineering,Outreach,500,427,Attended,1,Retained in STEM
+SES-2026-175,2026-07-24,Q3-2026,STU-144,MNT-506,Data Science,Outreach,1500,1388,Absent,,Ongoing
+SES-2026-176,2026-07-08,Q3-2026,STU-111,MNT-514,Software Engineering,Finance,1200,1132,Absent,,Ongoing
+SES-2026-177,2026-06-14,Q2-2026,STU-158,MNT-520,Data Science,Curriculum,300,280,Attended,3,Retained in STEM
+SES-2026-178,2026-12-20,Q4-2026,STU-136,MNT-521,Robotics,Operations,900,811,Attended,3,Ongoing
+SES-2026-179,2026-12-10,Q4-2026,STU-119,MNT-520,Data Science,Operations,1500,1397,Attended,2,Completed Project
+SES-2026-180,2026-03-06,Q1-2026,STU-150,MNT-519,Robotics,Curriculum,300,240,Attended,3,Retained in STEM
+SES-2026-181,2026-12-14,Q4-2026,STU-168,MNT-512,Data Science,Finance,900,806,Attended,1,Landed Internship
+SES-2026-182,2026-11-29,Q4-2026,STU-124,MNT-516,Data Science,Operations,700,637,Excused,,Completed Project
+SES-2026-183,2026-05-15,Q2-2026,STU-163,MNT-507,Robotics,Curriculum,700,586,Attended,5,Retained in STEM
+SES-2026-184,2026-02-07,Q1-2026,STU-112,MNT-522,Chemical Engineering,Finance,900,856,Absent,,Ongoing
+SES-2026-185,2026-12-30,Q4-2026,STU-123,MNT-512,Software Engineering,Operations,300,160,Attended,3,Landed Internship
+SES-2026-186,2026-04-13,Q2-2026,STU-171,MNT-519,Chemical Engineering,Outreach,500,440,Attended,1,Retained in STEM
+SES-2026-187,2026-10-10,Q4-2026,STU-168,MNT-514,Data Science,Operations,500,478,Attended,4,Ongoing
+SES-2026-188,2026-03-06,Q1-2026,STU-117,MNT-525,Software Engineering,Curriculum,700,682,Attended,5,Retained in STEM
+SES-2026-189,2026-08-10,Q3-2026,STU-139,MNT-506,Software Engineering,Finance,1200,1186,Absent,,Landed Internship
+SES-2026-190,2026-12-30,Q4-2026,STU-111,MNT-509,Software Engineering,Finance,500,412,Absent,,Retained in STEM
+SES-2026-191,2026-03-06,Q1-2026,STU-176,MNT-519,Software Engineering,Curriculum,1500,1423,Attended,1,Landed Internship
+SES-2026-192,2026-12-04,Q4-2026,STU-104,MNT-503,Robotics,Finance,1200,1114,Absent,,Completed Project
+SES-2026-193,2026-11-30,Q4-2026,STU-170,MNT-510,Chemical Engineering,Outreach,500,354,Attended,1,Ongoing
+SES-2026-194,2026-05-06,Q2-2026,STU-121,MNT-515,Data Science,Outreach,1500,1397,Attended,1,Completed Project
+SES-2026-195,2026-08-26,Q3-2026,STU-145,MNT-513,Software Engineering,Finance,500,413,Attended,3,Retained in STEM
+SES-2026-196,2026-09-21,Q3-2026,STU-135,MNT-515,Software Engineering,Curriculum,1200,1173,Attended,,Completed Project
+SES-2026-197,2026-02-19,Q1-2026,STU-132,MNT-506,Chemical Engineering,Finance,300,226,Absent,,Ongoing
+SES-2026-198,2026-04-08,Q2-2026,STU-164,MNT-510,Data Science,Operations,500,373,Excused,,Ongoing
+SES-2026-199,2026-02-16,Q1-2026,STU-175,MNT-512,Robotics,Operations,900,771,Attended,2,Landed Internship
+SES-2026-200,2026-05-25,Q2-2026,STU-156,MNT-505,Chemical Engineering,Finance,900,780,Attended,1,Completed Project
