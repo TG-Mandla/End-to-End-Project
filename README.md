@@ -55,5 +55,5 @@ The final deliverable is a multi-page, cross-functional dashboard featuring **cr
 ## 🚀 How to Run This Project
 1. Clone this repository.
 2. Import `data/Raw_Data.csv` into a Google Sheet tab named `Raw_Data` (ensure auto-conversion is turned **off**).
-3. Open `Mentorship_Data_Pipeline.ipynb` in Google Colab, authenticate your Google account, and execute the cells to clean and push data to your `Clean_Set` tab.
+3. Open `Mentorship_Data_Pipeline.ipynb` in Google Colab, authenticate my Google account, and execute the cells to clean and push data to my `Clean_Set` tab.
 4. Connect Looker Studio to the production worksheet.
